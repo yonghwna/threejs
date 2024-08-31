@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plas-1 Scorcher Helldivers 2
+* source:	https://sketchfab.com/3d-models/plas-1-scorcher-helldivers-2-ae6ba586eb364ab293f6d1e0a04c4026
+* author:	Ria_Xana (https://sketchfab.com/Ria_Xana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plas-1 Scorcher Helldivers 2" (https://sketchfab.com/3d-models/plas-1-scorcher-helldivers-2-ae6ba586eb364ab293f6d1e0a04c4026) by Ria_Xana (https://sketchfab.com/Ria_Xana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
